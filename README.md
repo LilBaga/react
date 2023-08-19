@@ -29,13 +29,13 @@ These instructions will help you get a copy of the project up and running on you
    For each individual project, navigate to its directory and install the dependencies.
 
    ```bash
-      cd project-name-1
-      npm install
+   cd project-name-1
+   npm install
 3. **Run the Project:**
    Start the development server for the selected project.
 
    ```bash
-      npm start
+   npm start
 ## **Contributing**
 If you would like to contribute to this project or suggest improvements, feel free to open an issue or submit a pull request. Your contributions are welcome!
 
