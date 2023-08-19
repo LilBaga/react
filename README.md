@@ -36,7 +36,7 @@ These instructions will help you get a copy of the project up and running on you
 
    ```bash
       npm start
-**Contributing**
+## **Contributing**
 If you would like to contribute to this project or suggest improvements, feel free to open an issue or submit a pull request. Your contributions are welcome!
 
 - Fork the repository.
@@ -46,5 +46,5 @@ If you would like to contribute to this project or suggest improvements, feel fr
 - Push your changes to your fork.
 - Open a pull request explaining your changes.
 
-**License**
-**This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the terms of the license.*
+## **License**
+*This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the terms of the license.*
